@@ -1,0 +1,2 @@
+# D-esercizigit-remoto
+eserciziTecninf
